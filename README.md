@@ -26,7 +26,7 @@ There are significantly more unpaid votes as opposed to paid votes according to 
 There are a significant more amount of people giving five-star reviews as an unpaid user as opposed to a paid user. 
 <br></br>
 
-## 3. The percent of paid Vine reviews that have 5 stars vs the percent of unpaid Vine reviews with five stars
+### 3. The percent of paid Vine reviews that have 5 stars vs the percent of unpaid Vine reviews with five stars
 
 <br>
 
@@ -34,7 +34,7 @@ There are a significant more amount of people giving five-star reviews as an unp
 
 The fact that the percentage of the paid five-star reviews is higher(48.8%) than the unpaid percent (38.8%) suggests that the paid users are more likely to give a good review of a video game as opposed to an unpaid user. 
 
-<br></br>
+<br>
 
 ## **Summary:**
 
